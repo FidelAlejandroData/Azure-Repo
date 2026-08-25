@@ -223,8 +223,7 @@ By completing this project, I developed an understanding of:
  ┃ ┗ 🏞️ 04 - Explore data analytics in Microsoft Fabric
  ┣ 📊 Power BI exercises
  ┃ ┗ 📊 05 - Explore fundamentals of data visualization with Power BI
- ┣ 🐾 Paws & Whiskers proposal
- ┣ 🖼️ Screenshots
+ ┣ 🐾 Paws & Whiskers proposal and example of data visualisation
  ┗ 📄 README.md
 
 ```
