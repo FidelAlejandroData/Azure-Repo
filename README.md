@@ -213,11 +213,18 @@ By completing this project, I developed an understanding of:
 ```text
 📦 Azure-Data-Fundamentals
  ┣ ☁️ Azure workbook
- ┣ 🧪 Azure lab evidence
- ┣ 🐾 Paws & Whiskers proposal
  ┣ 🗄️ Azure SQL exercises
- ┣ 📦 Storage & Cosmos DB exercises
+ ┃ ┗ 🗄️ 01 - Explore Azure SQL Database
+ ┣ 📦 Storage exercises
+ ┃ ┗ 📦 02 - Explore Azure Storage
+ ┣ 🐾 Azure Cosmos DB exercises
+ ┃ ┗ 🐾 03 - Explore Azure Cosmos DB
  ┣ 🏞️ Microsoft Fabric exercises
+ ┃ ┗ 🏞️ 04 - Explore data analytics in Microsoft Fabric
+ ┣ 📊 Power BI exercises
+ ┃ ┗ 📊 05 - Explore fundamentals of data visualization with Power BI
+ ┣ 🐾 Paws & Whiskers proposal
  ┣ 🖼️ Screenshots
  ┗ 📄 README.md
+
 ```
