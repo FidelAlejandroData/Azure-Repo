@@ -245,6 +245,12 @@ flowchart LR
  ┣ 📊 Power BI exercises
  ┃ ┗ 📊 06 - Explore fundamentals of data visualization with Power BI
  ┣ 🐾 Paws & Whiskers proposal and example of data visualisation
+ ┣ 📁 certificates
+ ┃ ┣ 📄 DataCamp Certificate - Understanding Cloud Computing.pdf
+ ┃ ┣ 📄 DataCamp Certificate - Understanding Microsoft Azure.pdf
+ ┃ ┣ 📄 DataCamp Certificate - Understanding Microsoft Azure Architecture and Services.pdf
+ ┃ ┣ 📄 DataCamp Certificate - Understanding Microsoft Azure Management and Governance.pdf
+ ┃ ┗ 📄 DataCamp Certificate - Microsoft Azure Fundamentals (AZ-900).pdf
  ┗ 📄 README.md
 
 ```
