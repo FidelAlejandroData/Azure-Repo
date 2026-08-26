@@ -204,6 +204,25 @@ By completing this project, I developed an understanding of:
 * Data modelling
 * Power BI
 
+## 🏅 Related Certifications
+
+Alongside the practical Azure work completed during the bootcamp, I completed several **DataCamp courses and certifications** covering cloud computing and the Microsoft Azure ecosystem:
+
+* ☁️ [**Understanding Cloud Computing – DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/60bd107bcb646fc687916a2383bb21fd0a5e7265?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+* 🔷 [**Understanding Microsoft Azure – DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/9d1944e4869d91f2dd9d28313f67487b0d1cc802?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+* 🏗️ [**Understanding Microsoft Azure Architecture and Services – DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/675f8851e4072b234c78e321a1e819a6c2c623c3?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+* ⚙️ [**Understanding Microsoft Azure Management and Governance – DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/b6975abae7040eb6837cb16e3991514f6d82bb6b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+* 🎓 [**Microsoft Azure Fundamentals (AZ-900) – DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/track/e767644044dfa18a7c6378abb08c63fdb07b0c6f?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
+These courses strengthened my understanding of cloud concepts, Azure architecture, core services, management, governance and the broader Azure platform alongside the practical data exercises included in this repository.
+
+flowchart LR
+    A[☁️ Cloud Computing]
+    --> B[🔷 Azure Fundamentals]
+    --> C[🏗️ Architecture & Services]
+    --> D[⚙️ Management & Governance]
+    --> E[🎓 AZ-900]
+
 ## 💻 Tools I Used
 
 `Microsoft Azure` `DP-900` `Azure SQL Database` `Azure Storage` `Azure Cosmos DB` `Microsoft Fabric` `Lakehouse` `Eventstreams` `Azure Data Factory` `Power BI`
