@@ -216,12 +216,14 @@ Alongside the practical Azure work completed during the bootcamp, I completed se
 
 These courses strengthened my understanding of cloud concepts, Azure architecture, core services, management, governance and the broader Azure platform alongside the practical data exercises included in this repository.
 
+```mermaid
 flowchart LR
     A[☁️ Cloud Computing]
     --> B[🔷 Azure Fundamentals]
     --> C[🏗️ Architecture & Services]
     --> D[⚙️ Management & Governance]
     --> E[🎓 AZ-900]
+```
 
 ## 💻 Tools I Used
 
